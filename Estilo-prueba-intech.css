@@ -1,0 +1,16 @@
+body{
+	background: deepskyblue;
+}
+
+.boton-enviar{
+	background-color: #0970C7;
+	color: #ffffff;
+	border: none;
+}
+
+.mensaje-no-encontrado{
+color: #C71D09;
+text-align: right;
+margin-block-start: -5.33em;
+}
+
